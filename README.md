@@ -57,7 +57,7 @@ An IoT-based automatic pill dispenser for elderly care that ensures timely medic
 > ✅ Sensor/Button detect confirmation  
 > ✅ Missed doses redirected automatically
 
-![Circuit Diagram](images/circuit.jpg)
+![Circuit Diagram](images/circuit_diagram.png)
 
 ---
 
