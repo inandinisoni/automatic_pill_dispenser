@@ -98,8 +98,8 @@ An IoT-based automatic pill dispenser for elderly care that ensures timely medic
 ## 👨‍💻 Authors
 
 - **Nandini Soni** – [LinkedIn](https://www.linkedin.com/in/nandini-soni)  
-
-
+- **Tanishka Jain** – [LinkedIn](https://www.linkedin.com/in/tanishkajain01/)  
+- **Simran Goyal** – [LinkedIn](https://www.linkedin.com/in/simran-goyal-513111256/)  
 ---
 
 ## 📄 License
