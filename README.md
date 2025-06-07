@@ -1,4 +1,4 @@
-# 💊 Smart Pill Dispenser
+# 💊 Automatic Pill Dispenser
 
 An IoT-based automatic pill dispenser for elderly care that ensures timely medicine intake through servo-controlled compartments, real-time clock scheduling, hand detection, manual confirmation, LCD display, and buzzer alerts.
 
