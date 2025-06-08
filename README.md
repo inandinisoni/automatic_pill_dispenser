@@ -2,7 +2,7 @@
 
 An IoT-based automatic pill dispenser for elderly care that ensures timely medicine intake through servo-controlled compartments, real-time clock scheduling, hand detection, manual confirmation, LCD display, and buzzer alerts.
 
-![Pill Dispenser Banner](images/banner.jpg) <!-- Replace with your banner image -->
+
 
 ## 📽️ Demo Video
 
